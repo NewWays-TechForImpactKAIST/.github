@@ -34,6 +34,17 @@ React와의 호환성을 보장하기 위해 MongoDB 데이터를 백엔드에�
 
 이 플랫폼을 자유롭게 탐험해 보세요. 우리는 지역 정치에 투명성과 다양성을 제공하기 위해 노력하고 있습니다!
 
+# 링크
+- 현 테스트 링크 : https://diversity.tech4impact.kr/
+- 백엔드 명세서 : https://diversity-api.tech4impact.kr/docs
+- [DB다이어그램](https://dbdiagram.io/d/TFI-DB-Design-652b8164ffbf5169f0b3215b)
+- [API 엔드포인트 명세서](https://tech4impact.notion.site/API-Endpoints-056e342c240b495390b71546af4ed5d3?pvs=4)
+- [[뉴웨이즈] 기초의회 연령/성별 다양성 지수 평가](https://docs.google.com/document/d/1zDRcU9ytQJv-7DPrxgRqOsd4_tevCYVfspJO1eKLzfc/edit)
+- [아이디어 미로보드](https://miro.com/app/board/uXjVNTg6e24=/)
+- [Figma 파일](https://www.figma.com/file/Dh9nytTfbib9qGI56Ddw6F/NewWays-%EB%8B%A4%EC%96%91%EC%84%B1-%ED%8F%89%EA%B0%80-%EB%A6%AC%ED%8F%AC%ED%8A%B8?type=design&node-id=98-49&mode=design )
+# 참여자
+
+
 # Visualizing Diversity in Local Politics
 Our project is dedicated to visualizing and promoting diversity in local politics through automatic data collection and website development.
 You can find the operation details of each repository in the respective repository README!
