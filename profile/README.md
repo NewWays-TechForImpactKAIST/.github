@@ -7,7 +7,7 @@
 
 대략 226개 지방자치단체의 3,000명의 의회원과 17개 광역자치단체의 900명 대표는 우리 지역을 형성하는 데 중요한 영향력을 가지고 있습니다. 뉴웨이즈는 재산, 현재 정치 소속, 공식 출장 기록과 같은 영역에 초점을 맞추어 다양한 시민 단체들의 주목을 끌고자 합니다.
 
-뉴웨이즈의 모토인 "다양한 개인들의 다양한 의사결정이 정치를 더 나게 만든다"는 우리의 미션을 이끌고 있습니다. 그러나 2010년부터 2022년까지의 네 차례의 지방 선거 결과를 분석해보면 당선된 정치인 중 48%가 50대, 72%가 남성이며 88%가 정당 소속임을 알 수 있습니다. 뉴웨이즈는 특히 젊은 정치인의 부족에 중점을 두어 이것을 해결하고 시민들과 연결하여 플랫폼을 구축하고자 합니다.
+뉴웨이즈의 모토인 "다양한 개인들의 다양한 의사결정이 정치를 더 나게 만든다"는 우리의 미션을 이끌고 있습니다. 그러나 2010년부터 2022년까지의 네 차례의 지방 선거 결과를 분석해보면 당선된 정치인 중 48%가 50대, 72%가 남성이며 88%가 거대 양당 소속임을 알 수 있습니다. 뉴웨이즈는 특히 젊은 정치인의 부족에 중점을 두어 이것을 해결하고 시민들과 연결하여 플랫폼을 구축하고자 합니다.
 
 ## 👩‍💻 1. API-scrap-and-analysis
 ### 1-1. 모든 선출단위에 대한 공직자 변동 자동 추적
@@ -70,7 +70,7 @@ Local representatives play a crucial role in managing budgets, regulations, and 
 
 With approximately 3,000 council members across 226 local government units and 900 representatives in 17 metropolitan regions, these officials have the power to shape our communities. NewWays seeks to draw attention from various civic organizations by focusing on areas such as property, current political affiliation, and official travel records.
 
-Newways' motto, "Diverse decision-making by diverse individuals improves politics," drives our mission. However, analyzing the results of four local elections from 2010 to 2022 reveals that 48% of elected officials are in their 50s, 72% are male, and 88% belong to mainstream political parties. NewWays particularly emphasizes addressing the lack of young politicians, connecting them with citizens to bridge the gap and foster a platform where more people can share their concerns.
+Newways' motto, "Diverse decision-making by diverse individuals improves politics," drives our mission. However, analyzing the results of four local elections from 2010 to 2022 reveals that 48% of elected officials are in their 50s, 72% are male, and 88% belong to two major political parties. NewWays particularly emphasizes addressing the lack of young politicians, connecting them with citizens to bridge the gap and foster a platform where more people can share their concerns.
 
 ## 👩‍💻 1. API-scrap-and-analysis
 ### 1-1. Automated tracking of public official changes for all elected units.
