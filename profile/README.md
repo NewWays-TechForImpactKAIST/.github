@@ -1,4 +1,4 @@
-# 지역정치 다양성 시각화
+![image](https://github.com/NewWays-TechForImpactKAIST/.github/assets/42648067/ff2444a4-862f-49cc-afa2-dfb29a015fc5)# 지역정치 다양성 시각화
 저희 프로젝트는 자동 데이터 수집과 웹사이트 개발을 통해 지역정치의 다양성을 시각화하고 증진하는 데 주력하고 있습니다.
 각 리포지토리의 작동방식은 리포지토리 README에서 확인하실 수 있어요!
 ## 🙋‍♀️ 0. 목적
@@ -34,7 +34,7 @@ React와의 호환성을 보장하기 위해 MongoDB 데이터를 백엔드에�
 
 이 플랫폼을 자유롭게 탐험해 보세요. 우리는 지역 정치에 투명성과 다양성을 제공하기 위해 노력하고 있습니다!
 
-# 링크
+# 링크 (Links)
 - 현 테스트 링크 : https://diversity.tech4impact.kr/
 - 백엔드 명세서 : https://diversity-api.tech4impact.kr/docs
 - [DB다이어그램](https://dbdiagram.io/d/TFI-DB-Design-652b8164ffbf5169f0b3215b)
@@ -42,8 +42,19 @@ React와의 호환성을 보장하기 위해 MongoDB 데이터를 백엔드에�
 - [[뉴웨이즈] 기초의회 연령/성별 다양성 지수 평가](https://docs.google.com/document/d/1zDRcU9ytQJv-7DPrxgRqOsd4_tevCYVfspJO1eKLzfc/edit)
 - [아이디어 미로보드](https://miro.com/app/board/uXjVNTg6e24=/)
 - [Figma 파일](https://www.figma.com/file/Dh9nytTfbib9qGI56Ddw6F/NewWays-%EB%8B%A4%EC%96%91%EC%84%B1-%ED%8F%89%EA%B0%80-%EB%A6%AC%ED%8F%AC%ED%8A%B8?type=design&node-id=98-49&mode=design )
-# 참여자
-
+# 참여자 (Contributors)
+| 📛 Name        | 📧 Email (@kaist) | 🐈‍⬛ GitHub     | 역할             |
+|--------------|-------------------|----------------|------------------|
+| 박건         | geon.park00       | Re-st          | 팀장(팀 외부 소통), 기초의원 크롤링, 정부API DB화, 나이통계, DB수정, 웹에 표현할 글 내용 설계  |
+| 손성민        | soungmin          | happycastle114 | 백엔드 설계/포팅, 기초의원 크롤링, 직업통계, API 엔드포인트 구상, URL 라우팅, 히스토그램/맵셀렉터 제작, 웹디자인  |
+| 송준혁        | songmhrm          | songc04        | 히스토그램/맵셀렉터 제작, 프론트엔드 구현 전반       |
+| 이기연        | keonl             | keonly         | 기초의원 크롤링, 스크랩 → MongoDB 연동, 다양성지표 조사 및 수기 테스트, 크론잡, 실행마다 결과 정리해 웹훅으로 슬랙앱 알림되도록 제작, 코드 정리  |
+| 이희원        | pingpingy         | pingpingy1     | 기초/광역/국회의원 크롤링, 다양성지표 비교, 다양성지수 및 순위 계산, DB 설계 및 수정, 백엔드서버 구축, API 엔드포인트 구상  |
+| 정상         | withsang          | withSang       | 파이썬 가상환경 + 깃헙구조 + 자동배포 설계, 서버 + 웹 주소 제공 및 배포, API 엔드포인트 구상, 제품요구사항 정의, React 구조설정, 히스토그램 제작, 웹디자인, 웹에 표현할 글 내용 설계, 회의록 작성    |
+## 컨설팅
+- JAY (카카오 크루) : 기술적 조언, 진행방식 지도, 레퍼런스 권유
+- 박혜민 대표님 (뉴웨이즈) : 유저 페르소나 공유, 방향 지도
+- 류석영 교수님 : 방향 지도 
 
 # Visualizing Diversity in Local Politics
 Our project is dedicated to visualizing and promoting diversity in local politics through automatic data collection and website development.
