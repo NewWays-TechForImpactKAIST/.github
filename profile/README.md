@@ -1,4 +1,5 @@
-![image](https://github.com/NewWays-TechForImpactKAIST/.github/assets/42648067/ff2444a4-862f-49cc-afa2-dfb29a015fc5)# 지역정치 다양성 시각화
+# 🥰
+# 지역정치 다양성 시각화
 저희 프로젝트는 자동 데이터 수집과 웹사이트 개발을 통해 지역정치의 다양성을 시각화하고 증진하는 데 주력하고 있습니다.
 각 리포지토리의 작동방식은 리포지토리 README에서 확인하실 수 있어요!
 ## 🙋‍♀️ 0. 목적
@@ -18,8 +19,13 @@
   - 유사한 웹사이트는 하나의 함수를 여러 태그로 공유하여 쉬운 유지보수.
 - Selenium
   - BeautifulSoup이 처리하지 못하는 부분을 처리.
-- 자동 실행
-  - (TKTKTK> 기연님 부탁해요!)
+- [실행 방법](https://github.com/NewWays-TechForImpactKAIST/API-scrap-and-analysis/pull/77)
+  - API-scrap-and-analysis 외의 리포지토리는 모두 자동 실행 
+  - 2개의 쉘 스크립트: `install.sh`, `run_scrap_scripts.sh`
+  - `install.sh` 스크립트를 통해 파이썬 가상환경, Chromedriver 등 초기 셋업 진행
+  - 이후 crontab에 `run_scrap_scripts.sh`를 등록해 스크랩 및 DB 연동 자동화
+  - 예시: `0 3 * * 0 ~/API-scrap-and-analysis/run_scrap_scripts.sh`
+
 ### 1-2. 나이 히스토그램 데이터 생성
 - 나이를 기준으로 5개의 동일한 크기의 하위 그룹으로 그룹화하고, 첫 번째 및 마지막 백분위를 계산합니다.
 
@@ -76,8 +82,12 @@ Newways' motto, "Diverse decision-making by diverse individuals improves politic
   - Similar websites share one function with different tags for easy maintenance.
 - Selenium
   - Handles what BeautifulSoup can't.
-- Automated running
-  - (TKTKTK> 기연님 부탁해요!)
+- [How to Run](https://github.com/NewWays-TechForImpactKAIST/API-scrap-and-analysis/pull/77)
+  - Repositories other than API-scrap-and-analysis are fully automated.
+  - Two shell scripts: `install.sh` and `run_scrap_scripts.sh`.
+  - The `install.sh` script handles initial setup, including creating a Python virtual environment and installing Chromedriver.
+  - Subsequently, `run_scrap_scripts.sh` is registered in crontab for automatic scraping and database integration.
+  - Example crontab entry: `0 3 * * 0 ~/API-scrap-and-analysis/run_scrap_scripts.sh`
 
 ### 1-2. Making age_histogram data
 We group the age into 5 same-sized subgroups based on age, and compute the first- and last quantile too.
