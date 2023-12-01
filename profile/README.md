@@ -63,10 +63,7 @@ React와의 호환성을 보장하기 위해 MongoDB 데이터를 백엔드에�
 - 류석영 교수님 : 방향 지도 
 
 # 데모 (Demo)
-
-
-Uploading diversity-demo.mp4…
-
+https://github.com/NewWays-TechForImpactKAIST/.github/assets/42648067/5ad78556-bc95-438c-9ccc-5700b8a84539
 
 # Visualizing Diversity in Local Politics
 Our project is dedicated to visualizing and promoting diversity in local politics through automatic data collection and website development.
