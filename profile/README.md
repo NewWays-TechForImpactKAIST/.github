@@ -62,6 +62,12 @@ React와의 호환성을 보장하기 위해 MongoDB 데이터를 백엔드에�
 - 박혜민 대표님 (뉴웨이즈) : 유저 페르소나 공유, 방향 지도
 - 류석영 교수님 : 방향 지도 
 
+# 데모 (Demo)
+
+
+Uploading diversity-demo.mp4…
+
+
 # Visualizing Diversity in Local Politics
 Our project is dedicated to visualizing and promoting diversity in local politics through automatic data collection and website development.
 You can find the operation details of each repository in the respective repository README!
